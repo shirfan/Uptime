@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Irfan.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://shirfan.github.io/Uptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Irfan Durmus](http://irfandurmus.com/cv), powered by [Upptime](https://github.com/upptime/upptime).
 
