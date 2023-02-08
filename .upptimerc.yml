@@ -13,12 +13,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /Uptime
+  cname: ilger.com
+  # baseUrl: /Uptime
   logoUrl: https://www.ilger.com/wp-content/uploads/2021/11/ILGER-logo.png
-  name: 
-  introTitle: "Ilge.com Servers Status"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). 
+  name: ilger
+  introTitle: "Servers Uptime"
+  introMessage: Status page which uses **real-time** data
   navbar:
     - title: Status
       href: /
