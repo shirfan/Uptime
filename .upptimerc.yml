@@ -13,8 +13,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: ilger.com
-  # baseUrl: /Uptime
+  # cname: ilger.com
+  baseUrl: /Uptime
   logoUrl: https://www.ilger.com/wp-content/uploads/2021/11/ILGER-logo.png
   name: ilger
   introTitle: "Servers Uptime"
