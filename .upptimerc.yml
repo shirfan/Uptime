@@ -30,7 +30,7 @@ status-website:
   introMessage: Status page which uses **real-time** data
   navbar:
     - title: Status
-      href: /
+      href: /Uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
@@ -40,7 +40,7 @@ status-website:
 workflowSchedule:
   graphs: "*/5 * * * *"
   responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
+  staticSite: "*/5 * * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
