@@ -11,7 +11,7 @@ sites:
     url: https://proxy1.ilger.com
   - name: smtp2.ilger.com
     check: "tcp-ping"
-    url: smtp2.ilger.com
+    url: smtp2.ilger.it
     port: 25
   - name: vps.qweb.eu
     check: "tcp-ping"
@@ -40,7 +40,7 @@ status-website:
 workflowSchedule:
   graphs: "*/5 * * * *"
   responseTime: "*/5 * * * *"
-  staticSite: "0 1 * * *"
+  staticSite: "*/5 * * * *"
   summary: "*/5 * * * *"
   updateTemplate: "0 0 * * *"
   updates: "*/5 * * * *"
