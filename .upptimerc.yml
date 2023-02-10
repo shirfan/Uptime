@@ -9,7 +9,7 @@ sites:
     url: https://posta.ilger.com
   - name: proxy.ilger.com
     url: https://proxy1.ilger.com
-  - name: KOS
+  - name: KOS Site
     url: $KOS_SITE
   - name: smtp2.ilger.com
     check: "tcp-ping"
