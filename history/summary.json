@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1399,
-    "timeDay": 1393,
-    "timeWeek": 1399,
-    "timeMonth": 1399,
-    "timeYear": 1399,
+    "time": 1398,
+    "timeDay": 1392,
+    "timeWeek": 1398,
+    "timeMonth": 1398,
+    "timeYear": 1398,
     "dailyMinutesDown": {}
   },
   {
@@ -54,21 +54,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "KOS01",
-    "url": "$KOS01",
+    "name": "KOS",
+    "url": "$KOS_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "kos-01",
+    "slug": "kos",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 626,
-    "timeWeek": 626,
-    "timeMonth": 626,
-    "timeYear": 626,
+    "time": 593,
+    "timeDay": 593,
+    "timeWeek": 593,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
+    "time": 283,
     "timeDay": 284,
-    "timeWeek": 284,
-    "timeMonth": 284,
-    "timeYear": 284,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
     "dailyMinutesDown": {}
   }
 ]
