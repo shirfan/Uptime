@@ -11,6 +11,8 @@ sites:
     url: https://proxy1.ilger.com
   - name: KOS Site
     url: $KOS_SITE
+  - name: KOS 02
+    url: https://kos02.ilger.com
   - name: smtp2.ilger.com
     check: "tcp-ping"
     url: smtp2.ilger.it
