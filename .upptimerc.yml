@@ -14,7 +14,10 @@ sites:
   - name: smtp2.ilger.com
     check: "tcp-ping"
     url: smtp2.ilger.it
-    port: 26
+    port: 25
+    
+  - name: test site
+    url: http://iilllger.com/
     
   - name: vps.qweb.eu
     check: "tcp-ping"
