@@ -17,7 +17,7 @@ sites:
     port: 25
     
   - name: test site
-    url: http://iilllger.com/
+    url: https://ilger.com/
     
   - name: vps.qweb.eu
     check: "tcp-ping"
