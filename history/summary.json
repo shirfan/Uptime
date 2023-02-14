@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1430,
+    "time": 1432,
     "timeDay": 1450,
-    "timeWeek": 1430,
-    "timeMonth": 1430,
-    "timeYear": 1430,
+    "timeWeek": 1432,
+    "timeMonth": 1432,
+    "timeYear": 1432,
     "dailyMinutesDown": {}
   },
   {
@@ -80,18 +80,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/iilllger.com.ico",
     "slug": "test-site",
     "status": "down",
-    "uptime": "2.99%",
-    "uptimeDay": "2.99%",
-    "uptimeWeek": "2.99%",
-    "uptimeMonth": "2.99%",
-    "uptimeYear": "2.99%",
+    "uptime": "2.26%",
+    "uptimeDay": "2.26%",
+    "uptimeWeek": "2.26%",
+    "uptimeMonth": "2.26%",
+    "uptimeYear": "2.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-14": 0
+      "2023-02-14": 1
     }
   },
   {
