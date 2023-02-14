@@ -80,19 +80,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilger.com.ico",
     "slug": "test-site",
     "status": "up",
-    "uptime": "2.01%",
-    "uptimeDay": "2.01%",
-    "uptimeWeek": "2.01%",
-    "uptimeMonth": "2.01%",
-    "uptimeYear": "2.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1541,
     "timeDay": 1541,
     "timeWeek": 1541,
     "timeMonth": 1541,
     "timeYear": 1541,
-    "dailyMinutesDown": {
-      "2023-02-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "vps.qweb.eu",
