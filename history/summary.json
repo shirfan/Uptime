@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1422,
-    "timeDay": 1459,
+    "timeDay": 1457,
     "timeWeek": 1400,
     "timeMonth": 1422,
     "timeYear": 1422,
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kos-site",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 903,
-    "timeDay": 932,
+    "timeDay": 933,
     "timeWeek": 920,
     "timeMonth": 903,
     "timeYear": 903,
-    "dailyMinutesDown": {
-      "2023-02-24": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KOS 02",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kos02.ilger.com.ico",
     "slug": "kos-02",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 882,
     "timeDay": 908,
     "timeWeek": 879,
     "timeMonth": 882,
     "timeYear": 882,
-    "dailyMinutesDown": {
-      "2023-02-24": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp2.ilger.com",
@@ -69,7 +65,7 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
     "time": 292,
-    "timeDay": 302,
+    "timeDay": 301,
     "timeWeek": 295,
     "timeMonth": 292,
     "timeYear": 292,
@@ -89,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1907,
-    "timeDay": 1969,
-    "timeWeek": 1911,
-    "timeMonth": 1907,
-    "timeYear": 1907,
+    "time": 1911,
+    "timeDay": 2005,
+    "timeWeek": 1917,
+    "timeMonth": 1911,
+    "timeYear": 1911,
     "dailyMinutesDown": {}
   },
   {
