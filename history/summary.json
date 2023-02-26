@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kos-site",
     "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "80.57%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.81%",
+    "uptime": "98.77%",
+    "uptimeDay": "79.87%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
     "time": 903,
     "timeDay": 911,
     "timeWeek": 931,
     "timeMonth": 903,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2023-02-26": 280
+      "2023-02-26": 290
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kos02.ilger.com.ico",
     "slug": "kos-02",
     "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "80.68%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.78%",
+    "uptimeDay": "79.97%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
     "time": 883,
     "timeDay": 882,
     "timeWeek": 885,
     "timeMonth": 883,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2023-02-26": 278
+      "2023-02-26": 288
     }
   },
   {
@@ -69,7 +69,7 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
     "time": 291,
-    "timeDay": 276,
+    "timeDay": 277,
     "timeWeek": 293,
     "timeMonth": 291,
     "timeYear": 291,
@@ -90,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1914,
-    "timeDay": 1956,
-    "timeWeek": 1931,
+    "timeDay": 1955,
+    "timeWeek": 1932,
     "timeMonth": 1914,
     "timeYear": 1914,
     "dailyMinutesDown": {}
