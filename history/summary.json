@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1423,
-    "timeDay": 1446,
+    "time": 1424,
+    "timeDay": 1452,
     "timeWeek": 1416,
-    "timeMonth": 1423,
-    "timeYear": 1423,
+    "timeMonth": 1424,
+    "timeYear": 1424,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kos-site",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "94.35%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.56%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 904,
-    "timeDay": 923,
+    "timeDay": 928,
     "timeWeek": 931,
     "timeMonth": 904,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2023-02-26": 81
+      "2023-02-26": 103
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kos02.ilger.com.ico",
     "slug": "kos-02",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "94.45%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.57%",
+    "uptimeDay": "92.97%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 883,
-    "timeDay": 893,
-    "timeWeek": 887,
+    "timeDay": 897,
+    "timeWeek": 886,
     "timeMonth": 883,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2023-02-26": 80
+      "2023-02-26": 101
     }
   },
   {
@@ -69,7 +69,7 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
     "time": 291,
-    "timeDay": 277,
+    "timeDay": 278,
     "timeWeek": 293,
     "timeMonth": 291,
     "timeYear": 291,
@@ -90,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1917,
-    "timeDay": 1985,
-    "timeWeek": 1931,
+    "timeDay": 1997,
+    "timeWeek": 1932,
     "timeMonth": 1917,
     "timeYear": 1917,
     "dailyMinutesDown": {}
