@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1423,
-    "timeDay": 1411,
-    "timeWeek": 1418,
+    "timeDay": 1400,
+    "timeWeek": 1417,
     "timeMonth": 1423,
     "timeYear": 1423,
     "dailyMinutesDown": {}
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kos-site",
     "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "71.42%",
-    "uptimeWeek": "95.92%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
+    "uptime": "98.14%",
+    "uptimeDay": "69.44%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "98.14%",
     "time": 903,
-    "timeDay": 915,
+    "timeDay": 914,
     "timeWeek": 932,
     "timeMonth": 903,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2023-02-26": 411
+      "2023-02-26": 440
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kos02.ilger.com.ico",
     "slug": "kos-02",
     "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "71.53%",
-    "uptimeWeek": "95.93%",
-    "uptimeMonth": "98.27%",
-    "uptimeYear": "98.27%",
+    "uptime": "98.15%",
+    "uptimeDay": "69.54%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
     "time": 883,
-    "timeDay": 891,
-    "timeWeek": 886,
+    "timeDay": 890,
+    "timeWeek": 885,
     "timeMonth": 883,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2023-02-26": 410
+      "2023-02-26": 439
     }
   },
   {
@@ -69,7 +69,7 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
     "time": 291,
-    "timeDay": 280,
+    "timeDay": 278,
     "timeWeek": 293,
     "timeMonth": 291,
     "timeYear": 291,
@@ -90,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1915,
-    "timeDay": 1970,
-    "timeWeek": 1934,
+    "timeDay": 1964,
+    "timeWeek": 1933,
     "timeMonth": 1915,
     "timeYear": 1915,
     "dailyMinutesDown": {}
@@ -108,7 +108,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 274,
+    "timeDay": 273,
     "timeWeek": 278,
     "timeMonth": 280,
     "timeYear": 280,
